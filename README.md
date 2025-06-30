@@ -130,3 +130,4 @@ README.md
 ## 📝 Licence
 
 Ce projet est open-source, libre à toi de l'adapter ! 
+ ![image](https://github.com/user-attachments/assets/1b4304f0-d7ac-44f5-91fa-3910f5bb77e1)
